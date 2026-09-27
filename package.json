@@ -1,0 +1,7 @@
+{
+  "name": "@acme/widget",
+  "version": "0.1.0",
+  "description": "Tiny embeddable widget library for dashboards.",
+  "main": "src/AcmeCard.jsx",
+  "license": "MIT"
+}
